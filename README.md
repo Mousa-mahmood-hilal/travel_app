@@ -10,14 +10,14 @@ Discover your ideal summer getaway. Filter destinations by duration and season t
 
 <table>
 <tr>
-<td><img src="Screenshot_1720628664.png" width="270" height="480" alt="category screen" style="max-width: 100%;"></td>
-<td><img src="Screenshot_1720628712.png" width="270" height="480" alt="trip screen" style="max-width: 100%;"></td>
-<td><img src="Screenshot_1720628720.png" width="270" height="480" alt="favorite screen" style="max-width: 100%;"></td>
+<td><img src="./images/category_screen.png" width="270" height="480" alt="category screen" style="max-width: 100%;"></td>
+<td><img src="./images/trip_screen.png" width="270" height="480" alt="trip screen" style="max-width: 100%;"></td>
+<td><img src="./images/tripdetail_screen.png" width="270" height="480" alt="favorite screen" style="max-width: 100%;"></td>
 </tr>
 <tr>
-<td><img src="Screenshot_1720628725.png" width="270" height="480" alt="drawer screen" style="max-width: 100%;"></td>
-<td><img src="Screenshot_1720628729.png" width="270" height="480" alt="trip detailes screen" style="max-width: 100%;"></td>
-<td><img src="Screenshot_1720629125.png" width="270" height="480" alt="filter screen" style="max-width: 100%;"></td>
+<td><img src="./images/favorite_screen.png" width="270" height="480" alt="drawer screen" style="max-width: 100%;"></td>
+<td><img src="./images/drawer_screen.png" width="270" height="480" alt="trip detailes screen" style="max-width: 100%;"></td>
+<td><img src="./images/filter_screen.png" width="270" height="480" alt="filter screen" style="max-width: 100%;"></td>
 </tr>
 </table>
 
